@@ -1,0 +1,29 @@
+{
+  "name": "API_CANIL",
+  "version": "1.0.0",
+  "description": "Valores / Distância.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo-html/API_CANIL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduardo-html/API_CANIL/issues"
+  },
+  "homepage": "https://github.com/Eduardo-html/API_CANIL#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
