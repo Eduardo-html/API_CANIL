@@ -4,7 +4,6 @@
   "description": "Valores / Distância.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
   "repository": {
@@ -12,7 +11,7 @@
     "url": "git+https://github.com/Eduardo-html/API_CANIL.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luiz Eduardo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eduardo-html/API_CANIL/issues"
