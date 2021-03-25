@@ -21,4 +21,4 @@ Após isto no terminal utilizar o seguinte comando: npm start <br>
 Irá iniciar o servidor local.
 
 Agora no google chromer digitar na barra de navegação o seguinte caminho: http://localhost:5000/  <br>
-Será exibida a lista de Canis com seus espectivos dados.Em JSON.
+Será exibida a lista de Canis com seus respectivos dados.Em JSON.
