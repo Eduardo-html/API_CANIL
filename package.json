@@ -2,9 +2,9 @@
   "name": "API_CANIL",
   "version": "1.0.0",
   "description": "Valores / Distância.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
