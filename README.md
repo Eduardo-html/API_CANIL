@@ -8,8 +8,8 @@ Node.js ambiente de execução Javascript server-side.
 Express, Bory-Parser,
 Nodemon, Cors, Morgan.
 
-## TESTE DE CRIAÇÃO DA API
-Insominia
+## PROGRAMAS UTILIZADOS NO DESENVOLVIMENTO
+Insominia, VSCODE, GOOGLE CHROMER.
 
 ### INICIAR PROJETO NA SUA MAQUINA
 Instalar VsCode, google chromer.
