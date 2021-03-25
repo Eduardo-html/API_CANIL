@@ -1,12 +1,11 @@
 const express = require('express')
 const morgan = require('morgan')
 const cors = require('cors')
-// const bodyPaser= require('body-parser')
+
 
 const app = express()
 
 app.use(morgan('dev'))
-// app.use(bodyPaser.urlencoded({extended: false}))
 app.use(express.json())
 app.use(cors())
 
