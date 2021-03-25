@@ -9,7 +9,7 @@ Express, Bory-Parser,
 Nodemon, Cors, Morgan.
 
 ## PROGRAMAS UTILIZADOS NO DESENVOLVIMENTO
-Insominia, VSCODE, GOOGLE CHROMER.
+Insominia, VsCode, Google Chromer.
 
 ### INICIAR PROJETO NA SUA MAQUINA
 Instalar VsCode, google chromer.
