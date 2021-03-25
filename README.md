@@ -20,5 +20,5 @@ Irá baixar todas as dependecias necessarias para o funcionamento da API.
 Após isto no terminal utilizar o seguinte comando: npm start <br>
 Irá iniciar o servidor local.
 
-Agora no google chromer digitar na barra de navegação o seguinte caminho: http://localhost:3000/  <br>
+Agora no google chromer digitar na barra de navegação o seguinte caminho: http://localhost:5000/  <br>
 Será exibida a lista de Canis com seus espectivos dados.Em JSON.
