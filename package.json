@@ -18,12 +18,11 @@
     "url": "https://github.com/Eduardo-html/API_CANIL/issues"
   },
   "homepage": "https://github.com/Eduardo-html/API_CANIL#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  },
+  "devDependencies": {},
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
   }
 }

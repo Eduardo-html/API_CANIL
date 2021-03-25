@@ -1,15 +1,16 @@
+  
 const express = require('express')
 const morgan = require('morgan')
-const cors = require('cors')
+// const cors = require('cors')
 
 
 const app = express()
 
 app.use(morgan('dev'))
-app.use(express.json())
-app.use(cors())
+// app.use(express.json())
+// app.use(cors())
 
-let db =[
+let db =
     {
         "canil": [
         {
@@ -39,13 +40,12 @@ let db =[
           }
         ]
     }
-]
 
 app.get('/', (req,resp) => {
     return resp.json(db)
 })
 
 
-app.listen(3000, () => {
-    console.log('Express started at http://localhost:3000')
+app.listen(5000, () => {
+    console.log('Express started at http://localhost:5000')
 })
