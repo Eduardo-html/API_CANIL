@@ -12,13 +12,10 @@ Nodemon, Cors, Morgan.
 Insominia, VsCode, Google Chromer.
 
 ### INICIAR PROJETO NA SUA MAQUINA
-Instalar VsCode, google chromer.
+Instalar VsCode, Insominia.
 
 No VsCode abrir o terminal e utilizar o seguinte comando : npm install <br>
 Irá baixar todas as dependecias necessarias para o funcionamento da API.
 
 Após isto no terminal utilizar o seguinte comando: npm start <br>
-Irá iniciar o servidor local.
-
-Agora no google chromer digitar na barra de navegação o seguinte caminho: http://localhost:5000/  <br>
-Será exibida a lista de Canis com seus respectivos dados.Em JSON.
+Pronto isso irá iniciar o servidor local. Ativando API.
