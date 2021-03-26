@@ -14,7 +14,12 @@ Insominia, VsCode, Google Chromer.
 ### INICIAR PROJETO NA SUA MAQUINA
 Instalar VsCode, Insominia.
 
-No VsCode abrir o terminal e utilizar o seguinte comando : npm install <br>
+No VsCode abrir o terminal e utilizar os seguintes comandos em ordem : <br>
+
+git clone https://github.com/Eduardo-html/API_CANIL.git <br>
+Irá clonar o repositorio na sua maquina.<br>
+
+npm install <br>
 Irá baixar todas as dependecias necessarias para o funcionamento da API.
 
 Após isto no terminal utilizar o seguinte comando: npm start <br>
